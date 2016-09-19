@@ -1,17 +1,17 @@
 /**
  * FormBeanValidater
- * 通用验证类
- * 支持request验证和Javabean验证
- * 支持如下验证：
- * notNull 空值验证
- * isNum 数值
- * isIdNum 身份证
- * isEmail 邮箱
- * maxLen 最大长度
- * minLen 最小长度
- * maxInt 最大整数
- * minInt 最小整数
- * 。。。。待添加
+ * common validate 
+ * support request and Javabean
+ * support validations：
+ * notNull 
+ * isNum 
+ * isEmail mail address
+ * maxLen max length of a string
+ * minLen  min length of a string
+ * maxInt max value of a integer
+ * minInt min value of a integer
+ * isIdNum chinese ID number
+ ... to be added
  * 
  */
 package com.***.validater;
