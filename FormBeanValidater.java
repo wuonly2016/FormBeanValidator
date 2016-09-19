@@ -1,4 +1,5 @@
 /**
+ * @author Michael Ma
  * FormBeanValidater
  * common validate 
  * support request and Javabean
@@ -11,8 +12,9 @@
  * maxInt max value of a integer
  * minInt min value of a integer
  * isIdNum chinese ID number
- ... to be added
+ * ... to be added
  * 
+ * mailto:wuonly@outlook.com
  */
 package com.***.validater;
 
